@@ -1,0 +1,55 @@
+2026-05-20 16:48:51,066 - stock_selector - INFO - ======================================================================
+2026-05-20 16:48:51,066 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 16:48:51,066 - stock_selector - INFO - ======================================================================
+2026-05-20 16:48:51,067 - stock_selector - ERROR - 数据库连接失败: 'latin-1' codec can't encode characters in position 0-6: ordinal not in range(256)
+2026-05-20 16:48:51,067 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:02:41,146 - stock_selector - INFO - ======================================================================
+2026-05-20 17:02:41,147 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:02:41,147 - stock_selector - INFO - ======================================================================
+2026-05-20 17:02:41,148 - stock_selector - ERROR - 数据库连接失败: 'latin-1' codec can't encode characters in position 0-6: ordinal not in range(256)
+2026-05-20 17:02:41,148 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:06:42,452 - stock_selector - INFO - ======================================================================
+2026-05-20 17:06:42,452 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:06:42,453 - stock_selector - INFO - ======================================================================
+2026-05-20 17:06:42,453 - stock_selector - ERROR - 数据库连接失败: 'latin-1' codec can't encode characters in position 0-6: ordinal not in range(256)
+2026-05-20 17:06:42,453 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:08:12,087 - stock_selector - INFO - ======================================================================
+2026-05-20 17:08:12,087 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:08:12,087 - stock_selector - INFO - ======================================================================
+2026-05-20 17:08:12,088 - stock_selector - ERROR - 数据库连接失败: pymysql.connections.Connection() got multiple values for keyword argument 'charset'
+2026-05-20 17:08:12,088 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:10:16,857 - stock_selector - INFO - ======================================================================
+2026-05-20 17:10:16,857 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:10:16,858 - stock_selector - INFO - ======================================================================
+2026-05-20 17:10:16,858 - stock_selector - ERROR - 数据库连接失败: 'latin-1' codec can't encode characters in position 0-6: ordinal not in range(256)
+2026-05-20 17:10:16,858 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:12:02,872 - stock_selector - INFO - ======================================================================
+2026-05-20 17:12:02,873 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:12:02,873 - stock_selector - INFO - ======================================================================
+2026-05-20 17:12:02,874 - stock_selector - ERROR - 数据库连接失败: 'latin-1' codec can't encode characters in position 0-6: ordinal not in range(256)
+2026-05-20 17:12:02,874 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:14:47,379 - stock_selector - INFO - ======================================================================
+2026-05-20 17:14:47,379 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:14:47,380 - stock_selector - INFO - ======================================================================
+2026-05-20 17:14:47,380 - stock_selector - ERROR - 数据库连接失败: 'latin-1' codec can't encode characters in position 0-6: ordinal not in range(256)
+2026-05-20 17:14:47,380 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:15:02,842 - stock_selector - INFO - ======================================================================
+2026-05-20 17:15:02,843 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:15:02,843 - stock_selector - INFO - ======================================================================
+2026-05-20 17:15:02,844 - stock_selector - ERROR - 数据库连接失败: 'latin-1' codec can't encode characters in position 0-6: ordinal not in range(256)
+2026-05-20 17:15:02,844 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:16:25,104 - stock_selector - INFO - ======================================================================
+2026-05-20 17:16:25,105 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:16:25,105 - stock_selector - INFO - ======================================================================
+2026-05-20 17:16:25,168 - stock_selector - ERROR - 数据库连接失败: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET character_set_connection=utf8mb4;SET character_set_client=utf8mb4;SET charac' at line 1")
+2026-05-20 17:16:25,169 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:16:43,708 - stock_selector - INFO - ======================================================================
+2026-05-20 17:16:43,708 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:16:43,708 - stock_selector - INFO - ======================================================================
+2026-05-20 17:16:43,761 - stock_selector - ERROR - 数据库连接失败: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET character_set_connection=utf8mb4;SET character_set_client=utf8mb4;SET charac' at line 1")
+2026-05-20 17:16:43,762 - stock_selector - ERROR - 数据库初始化失败，程序退出
+2026-05-20 17:16:57,684 - stock_selector - INFO - ======================================================================
+2026-05-20 17:16:57,685 - stock_selector - INFO - 📊 多指标综合选股系统（模块化版）启动
+2026-05-20 17:16:57,685 - stock_selector - INFO - ======================================================================
+2026-05-20 17:16:57,744 - stock_selector - ERROR - 数据库连接失败: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET character_set_connection=utf8mb4;SET character_set_client=utf8mb4;SET charac' at line 1")
+2026-05-20 17:16:57,745 - stock_selector - ERROR - 数据库初始化失败，程序退出
