@@ -1,0 +1,1 @@
+pip install akshare pandas openpyxl -i https://pypi.tuna.tsinghua.edu.cn/simple/ --trusted-host pypi.tuna.tsinghua.edu.cn
